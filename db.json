@@ -1,4 +1,5 @@
-[
+{
+  "stories": [
   {
     "id": "pets_friend",
     "title": "L’ami des animaux",
@@ -66,3 +67,4 @@
     "body": "Il était une fois, à New York, un petit garçon nommé {{name}}. Il était accompagné de son papa et de sa maman. Un jour ensoleillé, ils décidèrent de partir à l’aventure dans la grande ville.\n\nIls commencèrent par se rendre à Central Park, où {{name}} découvrit un étang rempli de canards. Il demanda à ses parents s’ils pouvaient acheter du pain pour nourrir les canards, ce à quoi ils acquiescèrent avec un sourire. Les canards se rassemblèrent autour d’eux, créant un moment de joie pour la famille.\n\nEnsuite, ils se dirigèrent vers Times Square, où les lumières vives et les écrans géants éblouirent {{name}}. Il ne savait pas où regarder en premier. Ses parents le prirent en photo sous les lumières scintillantes, créant ainsi des souvenirs précieux.\n\nLe lendemain, ils visitèrent le Musée d’Histoire Naturelle, où {{name}} fut fasciné par les squelettes de dinosauures et les expositions sur les animaux. Il posa de nombreuses questions, et ses parents étaient heureux de répondre à sa curiosité.\n\nChaque jour à New York était une nouvelle aventure pour {{name}}, et il était reconnaissant d’avoir ses parents à ses côtés pour partager ces moments spéciaux. Ils créèrent des souvenirs inoubliables dans la ville qui ne dort jamais, renforçant ainsi leur lien familial."
   }
 ]
+}
