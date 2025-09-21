@@ -2,7 +2,7 @@
   "name": "kidibook-api",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
+    "start": "json-server --watch db.json --static ./images --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^0.17.4"
